@@ -13,7 +13,7 @@ const Home = () => {
         <div>
             <div className='car-section'>
                 <div className="banner-left">
-                    <h2 className='text-3xl md:text-6xl font-bold'>Your next Cars</h2>
+                    <h2 className='text-3xl md:text-6xl font-bold'>Your next Car</h2>
                     <h2 className='text-3xl md:text-6xl font-bold text-pink-400 my-6'>Your Best Car</h2>
                     <p>It is my Dream Car.The car is very Beautiful. I am Car Lover...</p>
                     <button className="live-demo-btn">Live Demo</button>
